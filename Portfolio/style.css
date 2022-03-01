@@ -360,6 +360,7 @@ button{
 .about-img{
     width: 40%;
     padding: 0 15px;
+    
 }
 
  
@@ -375,23 +376,17 @@ button{
  
 
 .about-img .img-box{
-
     background-color: var(--white-alpha-25);
-
     max-width: 380px;
-
-    border:  1px solid var(--white-alpha-40);
-
+    border:  3px solid var(--white-alpha-40);
     margin:auto;
-
-    border-radius: 10px;
-
+    border-radius: 50px;
 }
 
  
 
 .about-img .img-box img{
-
+    border-radius: 50px;
     width: 100%;
 
 }
