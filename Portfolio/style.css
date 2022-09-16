@@ -443,12 +443,12 @@ button{
 
 .about-tabs .tab-item{
 
-    padding: 2px 0;
+    padding: 5px 15px;
 
     background-color: transparent;
 
-    border: none;
-
+    border: 1px solid var(--white-alpha-40);
+    border-radius: 20px;
     text-transform: capitalize;
 
     display: inline-block;
